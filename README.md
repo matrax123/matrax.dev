@@ -10,55 +10,37 @@
 
 ## 🚀 À propos de moi
 
-- 🧠 Je développe des **bots Discord sur mesure**, adaptés à tous les besoins de serveurs communautaires, RP ou professionnels.
-- 🛡️ Mon projet principal est [Safe Protect](https://safeprotect.xyz) : un bot de protection, anti-raid, auto-modération et bien plus encore.
-- 🧰 Je code principalement en **JavaScript**, avec des touches de **HTML/CSS** pour mes interfaces et dashboards.
-- 💬 Rejoins mon Discord pour me contacter ou demander un bot personnalisé : [discord.gg/cRKS5xFuJn](https://discord.gg/cRKS5xFuJn)
+- 🧠 Je développe des **bots Discord sur mesure**, adaptés à tous types de serveurs : communautés, RP, entreprises, etc.
+- 🛡️ Mon projet principal est [Safe Protect](https://safeprotect.xyz) : un bot de sécurité, anti-raid, auto-modération et bien plus.
+- 🧰 Je code principalement en **JavaScript**, avec du **HTML/CSS** pour les interfaces et dashboards.
+- 💬 Rejoins mon serveur Discord pour me contacter ou demander un bot personnalisé : [discord.gg/cRKS5xFuJn](https://discord.gg/cRKS5xFuJn)
 
 ---
 
-## 🛠️ Technologies
+## 🌐 Réseaux
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cRKS5xFuJn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@mqthys) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/matrax_tv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@_matrax_9000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.matrax@gmail.com) 
+
 
 ---
 
-## ⏱️ Temps de code (WakaTime)
+## 💻 Stack technique
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matrax123&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20h"/>
-</p>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
 ---
 
-## 📈 Statistiques GitHub
+## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matrax123&show_icons=true&theme=discord_old_blurple" alt="GitHub Stats"/>
-</p>
-
----
-
-## 🧠 Projet principal
-
-<p align="center">
-  <a href="https://safeprotect.xyz">
-    <img src="https://img.shields.io/badge/-Safe Protect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Safe Protect"/>
-  </a>
-</p>
+  ![](https://github-readme-stats.vercel.app/api?username=matrax123&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
+  ![](https://nirzak-streak-stats.vercel.app/?user=matrax123&theme=react&hide_border=false)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matrax123&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 📬 Contact
+## 💰 Me soutenir
 
-- 📫 Serveur Discord : [discord.gg/cRKS5xFuJn](https://discord.gg/cRKS5xFuJn)
-- 🌐 Site : [safeprotect.xyz](https://safeprotect.xyz)
+Tu veux m'encourager ou soutenir mes projets ?  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/matrax1)
 
 ---
-
-> Merci de visiter mon GitHub 🙏 N'hésite pas à me suivre ou contribuer à mes projets !
